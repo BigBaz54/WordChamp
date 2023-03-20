@@ -1,3 +1,8 @@
+# Contexte
+Wordle-like réalisé avec Malo Damien, Tristan Smagghe et Jules Brunet dans le cadre du projet du second semestre de 1ère année à TÉLÉCOM Nancy.
+
+Il contient une application web et un solveur.
+
 # Installation (production)
 
 ## Pré-requis
